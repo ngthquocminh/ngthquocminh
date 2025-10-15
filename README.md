@@ -30,7 +30,7 @@
 
 **🌐 Contact**
 📧 minh.nguyenthanhquoc@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/minhntq)
+🔗 [LinkedIn](https://linkedin.com/in/minhntq) [Portfolio](https://ngthquocminh.github.io/me/)
 <!--
 **ngthquocminh/ngthquocminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

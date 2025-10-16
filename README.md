@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm Minh Nguyen
-### Unity Developer | C# | Gameplay Systems
+I am a Unity Game Developer. I love making games. I enjoy writing clean and performant code, designing scalable & data-driven frameworks that support smooth development workflows and robust gameplay systems.
 
 ---
 
 **👋 About Me**
 - Game developer specialized in **Unity** and **C#**  
-- Experienced with **Networking/Multiplayer**, **3D**, **VR**
+- Experienced with **Networking/Multiplayer**, **VR**
 - Focused on **performance**, **game feel**, and **scalable systems**
 
 ---

@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Minh Nguyen
-I am a Unity Game Developer. I love making games. I enjoy writing clean and performant code, designing scalable & data-driven frameworks that support smooth development workflows and robust gameplay systems.
+I am a Unity Game Developer. I love to cook games! I enjoy writing clean and performant code, as well as designing scalable & data-driven frameworks that support smooth development workflows and robust gameplay systems.
 
 ---
 
